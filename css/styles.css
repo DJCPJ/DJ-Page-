@@ -12,7 +12,7 @@
 #Menu,
 #Review,
 #ContactUs {
-  min-height: 600px;
+  min-height: 675px;
 }
 
 /* NAV SECTION */
@@ -69,7 +69,7 @@ nav.navbar {
 
 .carousel-inner .item {
   width: 100%;
-  height: 700px;
+  height: 725px;
   background-size: 100%;
   background-position: center;
 }
@@ -80,6 +80,10 @@ nav.navbar {
 
 #carousel_image_two {
   background-image: url(../img/sb1.jpg);
+  background-size: cover;
+  /* background-position: top center; */
+  /* size: 80%;
+  top: 150px */
   
 }
 
@@ -102,7 +106,7 @@ nav.navbar {
 /* BIO */
 
 #Bio {
-  background-color: #68bad4;
+  background-color: #c26c21;
   color: whitesmoke; 
   font-size: 20px;
   /* padding-top: 60px; */
@@ -173,7 +177,7 @@ nav.navbar {
 }
 
   #contact {
-  background-color:  #68bad4;
+  background-color:  #c26c21;
   font-size: 15px;
 }
 
